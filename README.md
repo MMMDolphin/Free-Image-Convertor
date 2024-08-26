@@ -40,4 +40,4 @@ The script supports the following image formats:
 3. Run the script using Python:
 
 ```bash
-python script_name.py
+python main.py
