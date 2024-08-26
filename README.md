@@ -17,8 +17,6 @@ The script performs the following actions:
 2. **Convert Image Format**: Converts images to the specified format if it is supported.
 3. **Save Converted Images**: Saves the converted images to an output directory.
 
-  <img width="990" alt="image" src="https://github.com/user-attachments/assets/3b9f676e-7a0e-437c-a919-cdeefb721698">
-
   <img width="1283" alt="image" src="https://github.com/user-attachments/assets/c4a32d06-3332-4724-9bde-68749b8ed3fb">
 
 
